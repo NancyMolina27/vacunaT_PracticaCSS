@@ -84,7 +84,7 @@
                                         <a class="page-scroll" href="#service">Sintomas</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="page-scroll" href="#project">Medidas</a>
+                                        <a class="page-scroll" href="#team">Medidas</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="page-scroll" href="#contact">Contacto</a>
